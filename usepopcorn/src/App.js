@@ -328,6 +328,7 @@ function MovieDetails({ selectedId, onCloseMovie }) {
 
   console.log(title, year);
 
+  // Movie Details Effect
   useEffect(
     function () {
       async function getMovieDetails() {
