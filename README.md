@@ -6,6 +6,8 @@ This repository contains a collection of react-powered applications built as par
 
 ## 🔧 Projects Overview
 
+### `react-quiz` - The React Quiz
+
 ### `classy-weather` - Class Components Weather App
 
 ### `eat-n-split` - Money Splitting App
