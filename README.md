@@ -6,7 +6,7 @@ This repository contains a collection of react-powered applications built as par
 
 ## 🔧 Projects Overview
 
-### `react-quiz` - The React Quiz
+### `react-quiz` - React Quiz
 
 ### `classy-weather` - Class Components Weather App
 
