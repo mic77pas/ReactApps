@@ -7,15 +7,17 @@ This repository contains a collection of react-powered applications built as par
 ## 🔧 Projects Overview
 
 ### `react-quiz` - React Quiz
-
+#
 ### `classy-weather` - Class Components Weather App
-
+#
 ### `eat-n-split` - Money Splitting App
-
+#
 ### `pizza-menu` - Pizza Menu Graphic
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/858f3a38-acf9-4613-bccb-2f4652c0aa8f" />
 
+#
 ### `travel-list` - Travel Packing List
-
+#
 ### `usepopcorn` - Movie Rating Gallery
 
 <!--
