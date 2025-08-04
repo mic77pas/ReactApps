@@ -1,4 +1,5 @@
 module.exports = {
+
   root: true,
   env: { browser: true, es2020: true },
   extends: [
@@ -16,5 +17,7 @@ module.exports = {
       'warn',
       { allowConstantExport: true },
     ],
+    'no-unused-vars': 'warn',
+    'react/prop-types': 'off',
   },
 }
