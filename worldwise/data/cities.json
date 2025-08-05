@@ -37,18 +37,6 @@
       "id": "98443197"
     },
     {
-      "id": "6eed",
-      "cityName": "Rome",
-      "country": "Italy",
-      "emoji": "🇮🇹",
-      "date": "2025-08-05T01:14:22.950Z",
-      "notes": "",
-      "position": {
-        "lat": "41.902277040963696",
-        "lng": "12.568359375000002"
-      }
-    },
-    {
       "id": "c43a",
       "cityName": "Rome",
       "country": "Italy",
@@ -58,66 +46,6 @@
       "position": {
         "lat": "41.902277040963696",
         "lng": "12.568359375000002"
-      }
-    },
-    {
-      "id": "7645",
-      "cityName": "Rome",
-      "country": "Italy",
-      "emoji": "🇮🇹",
-      "date": "2025-08-05T01:14:22.950Z",
-      "notes": "",
-      "position": {
-        "lat": "41.902277040963696",
-        "lng": "12.568359375000002"
-      }
-    },
-    {
-      "id": "7937",
-      "cityName": "Rome",
-      "country": "Italy",
-      "emoji": "🇮🇹",
-      "date": "2025-08-05T01:16:58.610Z",
-      "notes": "TEST",
-      "position": {
-        "lat": "41.893460648167355",
-        "lng": "12.568874359130861"
-      }
-    },
-    {
-      "id": "f064",
-      "cityName": "Mazzarino",
-      "country": "Italy",
-      "emoji": "🇮🇹",
-      "date": "2025-08-05T01:18:06.879Z",
-      "notes": "",
-      "position": {
-        "lat": "37.30027528134433",
-        "lng": "14.23828125"
-      }
-    },
-    {
-      "id": "8c7b",
-      "cityName": "Jelma",
-      "country": "Tunisia",
-      "emoji": "🇹🇳",
-      "date": "2025-08-05T01:18:06.879Z",
-      "notes": "",
-      "position": {
-        "lat": "35.28150065789119",
-        "lng": "9.360351562500002"
-      }
-    },
-    {
-      "id": "ce92",
-      "cityName": "Clarington",
-      "country": "Canada",
-      "emoji": "🇨🇦",
-      "date": "2025-08-05T01:19:35.545Z",
-      "notes": "",
-      "position": {
-        "lat": "44.071800467511565",
-        "lng": "-78.70605468750001"
       }
     }
   ]
