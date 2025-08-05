@@ -6,6 +6,9 @@ This repository contains a collection of react-powered applications built as par
 
 ## 🔧 Projects Overview
 
+### `worldwise` - World Country Selector
+- Context Api, Leaflet
+#
 ### `react-quiz` - React Quiz
 #
 ### `classy-weather` - Class Components Weather App
