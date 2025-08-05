@@ -14,6 +14,7 @@ import L from "leaflet";
 
 import Button from "./Button";
 import { useGeolocation } from "../hooks/useGeoLocation";
+import { useUrlPosition } from "../hooks/useUrlPosition";
 
 // Map Markers
 delete L.Icon.Default.prototype._getIconUrl;
@@ -27,12 +28,13 @@ L.Icon.Default.mergeOptions({
 function Map() {
   const { cities } = useCities();
   const [mapPosition, setMapPosition] = useState([40, 0]);
-  const [searchParams] = useSearchParams();
   const {
     isLoading: isLoadingPosition,
     position: geolocationPosition,
     getPosition,
   } = useGeolocation();
+
+  const [mapLat, mapLng] = useUrlPosition();
 
   useEffect(
     function () {
@@ -41,9 +43,6 @@ function Map() {
     },
     [geolocationPosition]
   );
-
-  const mapLat = searchParams.get("lat");
-  const mapLng = searchParams.get("lng");
 
   useEffect(
     function () {
@@ -59,7 +58,7 @@ function Map() {
           {isLoadingPosition ? "Loading..." : "Use Your Position"}
         </Button>
       )}
-      
+
       <MapContainer
         center={mapPosition}
         // center={[mapLat, mapLng]}
