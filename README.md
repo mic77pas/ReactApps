@@ -13,15 +13,13 @@ This repository contains a collection of react-powered applications I've built a
 ---
 
 ## 🔧 Projects Overview
-
 ### `worldwise` - World Country Selector
+<img src="https://github.com/user-attachments/assets/afb36b0a-9260-4dcf-9a07-0d3d6a32b4db" />
 
-
-- **React Router, Context Api, Leaflet. memo, useMemo, useCallback**
+- **React Router, Context Api, Leaflet, memo, useMemo, useCallback**
 #
 ### `react-quiz` - React Quiz
 <img width="800" src="https://github.com/user-attachments/assets/09a64740-d9eb-42da-8daf-2898053b537d" />
-
 
 - **useReducer**
 #
