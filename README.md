@@ -48,7 +48,7 @@ This repository contains a collection of react-powered applications I've built a
 
 - **Components, props, JSX**
 
-#
+---
 
 ## 🚀 How to Run
 
