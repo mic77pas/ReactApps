@@ -7,35 +7,35 @@ This repository contains a collection of react-powered applications built as par
 ## 🔧 Projects Overview
 
 ### `worldwise` - World Country Selector
-- Context Api, Leaflet
+- React Router, Context Api, Leaflet. memo, useMemo, useCallback
 #
 ### `react-quiz` - React Quiz
+- useReducer
 #
-### `classy-weather` - Class Components Weather App
-#
-### `eat-n-split` - Money Splitting App
-#
-### `pizza-menu` - Pizza Menu Graphic
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/858f3a38-acf9-4613-bccb-2f4652c0aa8f" />
-
-#
-### `travel-list` - Travel Packing List
+### `classy-weather` - Weather App
+- Class components
 #
 ### `usepopcorn` - Movie Rating Gallery
+- useEffect, data fetching, custom hooks
+#
+### `eat-n-split` - Money Splitting App
+- Practise project (incorporates `travel-list` and `pizza-menu` components)
+#
+### `travel-list` - Travel Packing List
+<img src="https://github.com/user-attachments/assets/7fb0abf8-a998-4581-8918-6e3f3f912642" width="600" />
 
-<!--
-### 📄 `capstone` — **ResumeForge**
-A modern AI-assisted resume builder that allows users to create, edit, and export professional resumes. Features include real-time content editing, dynamic section management, and a clean export-ready layout. Designed as the capstone project to integrate full-stack development and product thinking.
+- useState, State Management
+#
+### `pizza-menu` - Pizza Menu Graphic
+<img width="320" alt="image" src="https://github.com/user-attachments/assets/858f3a38-acf9-4613-bccb-2f4652c0aa8f" />
 
-### 🛒 `commerce` — **E-Commerce Auction Site**
-A Django-powered auction platform where users can:
-- Post product listings with images and descriptions
-- Place bids on active listings
-- Comment on items
-- Add items to a personal watchlist
-- Close auctions and view winner results  
-Implements user authentication and dynamic listing updates using Django’s ORM and templating engine.
--->
+- Components, props, JSX
+
+#
+
+### How to Run (`pizza-menu`, `travel-list`, `eat-n-split`, `usepopcorn`, `classy-weather`)
+
+`npm start`
 
 ---
 
