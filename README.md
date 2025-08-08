@@ -19,6 +19,8 @@ This repository contains a collection of react-powered applications built as par
 - useEffect, data fetching, custom hooks
 #
 ### `eat-n-split` - Money Splitting App
+<img width="600" src="https://github.com/user-attachments/assets/861c109a-f340-4eda-b334-2ccb42eff316" />
+
 - Practise project (incorporates `travel-list` and `pizza-menu` components)
 #
 ### `travel-list` - Travel Packing List
