@@ -17,12 +17,12 @@ This repository contains a collection of react-powered applications I've built a
 ### `worldwise` - World Country Selector
 
 
-**- React Router, Context Api, Leaflet. memo, useMemo, useCallback**
+- **React Router, Context Api, Leaflet. memo, useMemo, useCallback**
 #
 ### `react-quiz` - React Quiz
 
 
-**- useReducer**
+- **useReducer**
 #
 ### `classy-weather` - Weather App
 <img width="800" src="https://github.com/user-attachments/assets/7c03a2df-6dd3-48f0-b56e-41bc16dba758" />
