@@ -15,35 +15,39 @@ This repository contains a collection of react-powered applications built as par
 ## 🔧 Projects Overview
 
 ### `worldwise` - World Country Selector
-- React Router, Context Api, Leaflet. memo, useMemo, useCallback
+
+
+**- React Router, Context Api, Leaflet. memo, useMemo, useCallback**
 #
 ### `react-quiz` - React Quiz
-- useReducer
+
+
+**- useReducer**
 #
 ### `classy-weather` - Weather App
 <img width="800" src="https://github.com/user-attachments/assets/7c03a2df-6dd3-48f0-b56e-41bc16dba758" />
 
-- Class components, data fetching
+- **Class components, data fetching**
 #
 ### `usepopcorn` - Movie Rating Gallery
 <img width="800" src="https://github.com/user-attachments/assets/9729a877-c296-4af9-b964-79faba1d7b26" />
 
-- useEffect, data fetching, custom hooks
+- **useEffect, data fetching, custom hooks**
 #
 ### `eat-n-split` - Money Splitting App
 <img width="800" src="https://github.com/user-attachments/assets/861c109a-f340-4eda-b334-2ccb42eff316" />
 
-- Practise project (incorporates `travel-list` and `pizza-menu` components)
+- **Practise project (incorporates `travel-list` and `pizza-menu` components)**
 #
 ### `travel-list` - Travel Packing List
 <img width="800" src="https://github.com/user-attachments/assets/7fb0abf8-a998-4581-8918-6e3f3f912642" />
 
-- useState, State Management
+- **useState, State Management**
 #
 ### `pizza-menu` - Pizza Menu Graphic
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/6576e93c-5790-4168-8392-d05318becbff" />
 
-- Components, props, JSX
+- **Components, props, JSX**
 
 #
 
