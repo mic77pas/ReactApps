@@ -20,6 +20,7 @@ This repository contains a collection of react-powered applications I've built a
 - **React Router, Context Api, Leaflet. memo, useMemo, useCallback**
 #
 ### `react-quiz` - React Quiz
+<img width="800" src="https://github.com/user-attachments/assets/09a64740-d9eb-42da-8daf-2898053b537d" />
 
 
 - **useReducer**
