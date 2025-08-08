@@ -53,10 +53,13 @@ This repository contains a collection of react-powered applications I've built a
 #
 
 ### How to Run
-For: `pizza-menu`, `travel-list`, `eat-n-split`, `usepopcorn`, `classy-weather`
+### -= `pizza-menu`, `travel-list`, `eat-n-split`, `usepopcorn`, `classy-weather` =-
 
 `npm start`
 
-For: ...
+-= `react-quiz` =-
+
+`npm start`
+`npm run server`
 
 ---
