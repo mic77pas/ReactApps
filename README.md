@@ -24,6 +24,8 @@ This repository contains a collection of react-powered applications built as par
 - Class components
 #
 ### `usepopcorn` - Movie Rating Gallery
+<img width="800" src="https://github.com/user-attachments/assets/9729a877-c296-4af9-b964-79faba1d7b26" />
+
 - useEffect, data fetching, custom hooks
 #
 ### `eat-n-split` - Money Splitting App
