@@ -50,14 +50,39 @@ This repository contains a collection of react-powered applications I've built a
 
 #
 
-### How to Run
-### -= `pizza-menu`, `travel-list`, `eat-n-split`, `usepopcorn`, `classy-weather` =-
+## 🚀 How to Run
+
+Below are the commands to start each project:
+
+| Project                                                                                           | Start Command(s)                                        |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| **pizza-menu**<br>**travel-list**<br>**eat-n-split**<br>**usepopcorn**<br>**classy-weather**       | `npm start`                                             |
+| **react-quiz**                                                                      | `npm start`<br>`npm run server` *(for backend/API)*     |
+| **worldwise**                                                                    | `npm run dev`<br>`npm run server` *(for backend/API)*   |
+
+### Notes
+- **`npm start`** – Starts the React development server (for Create React App projects).
+- **`npm run dev`** – Starts the development server (for Vite-based projects).
+- **`npm run server`** – Starts the JSON server or API backend (run in a separate terminal).
+
+
+<!--
+### How to Run:
+#
+### `pizza-menu`, `travel-list`, `eat-n-split`, `usepopcorn`, `classy-weather`
+
+`npm start`
+#
+### `react-quiz`
 
 `npm start`
 
-### -= `react-quiz` =-
-
-`npm start`
 `npm run server`
+#
+### `react-quiz`
 
+`npm run dev`
+
+`npm run server`
+-->
 ---
