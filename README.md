@@ -1,6 +1,6 @@
 ﻿# Udemy React Projects
 
-This repository contains a collection of react-powered applications built as part of Jonas Schmedtmann's [Ultimate React Course: React, Next.js, Redux & more](https://www.udemy.com/course/the-ultimate-react-course/?couponCode=25BBPMXINACTIVE).
+This repository contains a collection of react-powered applications I've built as part of Jonas Schmedtmann's [Ultimate React Course: React, Next.js, Redux & more](https://www.udemy.com/course/the-ultimate-react-course/?couponCode=25BBPMXINACTIVE).
 
 ## 📦 Tech Stack
 
