@@ -57,7 +57,7 @@ This repository contains a collection of react-powered applications I've built a
 
 `npm start`
 
--= `react-quiz` =-
+### -= `react-quiz` =-
 
 `npm start`
 `npm run server`
