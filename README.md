@@ -4,9 +4,9 @@ This repository contains a collection of react-powered applications I've built a
 
 ## 📦 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -19,27 +19,37 @@ This repository contains a collection of react-powered applications I've built a
 - **React Router, Context Api, Leaflet, memo, useMemo, useCallback**
 #
 ### `react-quiz` - React Quiz
-<img width="800" src="https://github.com/user-attachments/assets/09a64740-d9eb-42da-8daf-2898053b537d" />
+<img width="800" src="https://github.com/user-attachments/assets/8131133e-5243-4e26-abf4-612c8de0799f" />
+
+<!-- https://github.com/user-attachments/assets/09a64740-d9eb-42da-8daf-2898053b537d -->
 
 - **useReducer**
 #
 ### `classy-weather` - Weather App
-<img width="800" src="https://github.com/user-attachments/assets/7c03a2df-6dd3-48f0-b56e-41bc16dba758" />
+<img width="800" src="https://github.com/user-attachments/assets/81be5636-ed43-492b-9a2c-f8e9a9383bb4" />
+
+<!-- https://github.com/user-attachments/assets/7c03a2df-6dd3-48f0-b56e-41bc16dba758 -->
 
 - **Class components, data fetching**
 #
 ### `usepopcorn` - Movie Rating Gallery
-<img width="800" src="https://github.com/user-attachments/assets/9729a877-c296-4af9-b964-79faba1d7b26" />
+<img width="800" src="https://github.com/user-attachments/assets/f519dd1a-1116-445b-87ca-2a0fef584b05" />
+
+<!-- https://github.com/user-attachments/assets/9729a877-c296-4af9-b964-79faba1d7b26 -->
 
 - **useEffect, data fetching, custom hooks**
 #
 ### `eat-n-split` - Money Splitting App
-<img width="800" src="https://github.com/user-attachments/assets/861c109a-f340-4eda-b334-2ccb42eff316" />
+<img width="800" src="https://github.com/user-attachments/assets/c9d2ca19-1ec1-4db1-acab-f5f191dbebd9" />
+
+<!-- https://github.com/user-attachments/assets/861c109a-f340-4eda-b334-2ccb42eff316 -->
 
 - **Practise project (incorporates `travel-list` and `pizza-menu` components)**
 #
 ### `travel-list` - Travel Packing List
-<img width="800" src="https://github.com/user-attachments/assets/7fb0abf8-a998-4581-8918-6e3f3f912642" />
+<img width="800" src="https://github.com/user-attachments/assets/65f3a3b0-c9a7-4cca-ad27-83409d24e80a" />
+
+<!-- https://github.com/user-attachments/assets/7fb0abf8-a998-4581-8918-6e3f3f912642-->
 
 - **useState, State Management**
 #
