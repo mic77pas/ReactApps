@@ -14,7 +14,7 @@ function AppLayout() {
       <Header />
 
       <main>
-        <h1>Content</h1>
+        {/* <h1>Content</h1> */}
         {/* Children in App.jsx routing come into Outlet */}
         <Outlet />
       </main>
