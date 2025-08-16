@@ -13,8 +13,8 @@ function AppLayout() {
 
       <Header />
 
-      <div className="overflow-scroll">
-        <main className="max-w-3xl overflow-scroll mx-auto">
+      <div className="overflow-y-scroll">
+        <main className="max-w-3xl overflow-hidden mx-auto">
           {/* <h1>Content</h1> */}
           {/* Children in App.jsx routing come into Outlet */}
           <Outlet />

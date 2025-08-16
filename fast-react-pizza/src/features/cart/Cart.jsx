@@ -32,10 +32,8 @@ function Cart() {
         </Button>
 
         <Button type="secondary" onClick={() => dispatch(clearCart())}>
-          Clear cart
+          Clear Cart
         </Button>
-
-        <button>Clear cart</button>
       </div>
     </div>
   );
