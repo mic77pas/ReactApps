@@ -73,6 +73,7 @@ Below are the commands to start each project:
 | **pizza-menu**<br>**travel-list**<br>**eat-n-split**<br>**usepopcorn**<br>**classy-weather**       | `npm start`                                             |
 | **react-quiz**                                                                      | `npm start`<br>`npm run server` *(for backend/API)*     |
 | **worldwise**                                                                    | `npm run dev`<br>`npm run server` *(for backend/API)*   |
+| **fast-react-pizza**                                                                    | `npm run dev`|
 
 ### Notes
 - **`npm start`** – Starts the React development server (for Create React App projects).
