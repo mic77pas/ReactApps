@@ -11,10 +11,14 @@ This repository contains a collection of react-powered applications I've built a
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
-
 ## 🔧 Projects Overview
+### `fast-react-pizza` - Pizza Ordering Site
+<img width="800" src="https://github.com/user-attachments/assets/ce0f51ed-7646-46da-aeaa-fb381694c83f" />
+
+- **React Router data loading, Redux, Redux Toolkit, thunks, Tailwind CSS**
+#
 ### `worldwise` - World Country Selector
-<img src="https://github.com/user-attachments/assets/afb36b0a-9260-4dcf-9a07-0d3d6a32b4db" />
+<img width="800" src="https://github.com/user-attachments/assets/afb36b0a-9260-4dcf-9a07-0d3d6a32b4db" />
 
 - **React Router, Context Api, Leaflet, memo, useMemo, useCallback**
 #
