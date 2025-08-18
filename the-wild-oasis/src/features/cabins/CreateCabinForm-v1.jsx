@@ -6,12 +6,10 @@ import Form from "../../ui/Form";
 import Button from "../../ui/Button";
 import FileInput from "../../ui/FileInput";
 import Textarea from "../../ui/Textarea";
+import FormRow from "../../ui/FormRow";
 
 import { useForm } from "react-hook-form";
-
 import { createCabin } from "../../services/apiCabins";
-
-import FormRow from "../../ui/FormRow";
 
 function CreateCabinForm() {
   const { register, handleSubmit, reset, getValues, formState } = useForm();
@@ -26,9 +24,7 @@ function CreateCabinForm() {
       queryClient.invalidateQueries({ queryKey: ["cabins"] });
       reset();
     },
-    onError: (err) => {
-      toast.error(err.message);
-    },
+    onError: (err) => toast.error(err.message),
   });
 
   function onSubmit(data) {
@@ -76,7 +72,7 @@ function CreateCabinForm() {
             required: "This field is required",
             min: {
               value: 1,
-              message: "Price should be at least 1",
+              message: "Capacity should be at least 1",
             },
           })}
         />
@@ -105,8 +101,8 @@ function CreateCabinForm() {
         <Textarea
           type="number"
           id="description"
-          disabled={isCreating}
           defaultValue=""
+          disabled={isCreating}
           {...register("description", {
             required: "This field is required",
           })}
