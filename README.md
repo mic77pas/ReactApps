@@ -12,16 +12,24 @@ This repository contains a collection of react-powered applications I've built a
 
 ---
 ## 🔧 Projects Overview
+### `the-wild-oasis` - Hotel Management Site
+<img width="800" src="https://github.com/user-attachments/assets/7c284a36-a955-41ae-9c54-f727ee5f0cc3" />
+
+- **React Query, Styled Components, React Hook Form, Supabase, advanced compound component pattern, authentication, charts, dark mode, professional application planning and development**
+#
+
 ### `fast-react-pizza` - Pizza Ordering Site
 <img width="800" src="https://github.com/user-attachments/assets/ce0f51ed-7646-46da-aeaa-fb381694c83f" />
 
 - **React Router data loading, Redux, Redux Toolkit, thunks, Tailwind CSS**
 #
+
 ### `worldwise` - World Country Selector
 <img width="800" src="https://github.com/user-attachments/assets/afb36b0a-9260-4dcf-9a07-0d3d6a32b4db" />
 
 - **React Router, Context Api, Leaflet, memo, useMemo, useCallback**
 #
+
 ### `react-quiz` - React Quiz
 <img width="800" src="https://github.com/user-attachments/assets/8131133e-5243-4e26-abf4-612c8de0799f" />
 
@@ -29,6 +37,7 @@ This repository contains a collection of react-powered applications I've built a
 
 - **useReducer**
 #
+
 ### `classy-weather` - Weather App
 <img width="800" src="https://github.com/user-attachments/assets/81be5636-ed43-492b-9a2c-f8e9a9383bb4" />
 
@@ -36,6 +45,7 @@ This repository contains a collection of react-powered applications I've built a
 
 - **Class components, data fetching**
 #
+
 ### `usepopcorn` - Movie Rating Gallery
 <img width="800" src="https://github.com/user-attachments/assets/f519dd1a-1116-445b-87ca-2a0fef584b05" />
 
@@ -43,6 +53,7 @@ This repository contains a collection of react-powered applications I've built a
 
 - **useEffect, data fetching, custom hooks**
 #
+
 ### `eat-n-split` - Money Splitting App
 <img width="800" src="https://github.com/user-attachments/assets/c9d2ca19-1ec1-4db1-acab-f5f191dbebd9" />
 
@@ -50,6 +61,7 @@ This repository contains a collection of react-powered applications I've built a
 
 - **Practise project (incorporates `travel-list` and `pizza-menu` components)**
 #
+
 ### `travel-list` - Travel Packing List
 <img width="800" src="https://github.com/user-attachments/assets/65f3a3b0-c9a7-4cca-ad27-83409d24e80a" />
 
@@ -57,6 +69,7 @@ This repository contains a collection of react-powered applications I've built a
 
 - **useState, State Management**
 #
+
 ### `pizza-menu` - Pizza Menu Graphic
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/6576e93c-5790-4168-8392-d05318becbff" />
 
