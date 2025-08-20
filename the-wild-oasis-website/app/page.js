@@ -4,8 +4,10 @@ import Navigation from "./components/Navigation";
 export default function Page() {
   return (
     <div>
-      <Navigation />
-      <h1>The Wold Oasis. Welcome to Paradise.</h1>
+
+      <h1>The Wild Oasis. Welcome to Paradise.</h1>
+
+      <Link href='/cabins'>Explore luxury cabins</Link>
 
     </div>
   );
