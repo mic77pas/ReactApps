@@ -13,6 +13,11 @@ This repository contains a collection of react-powered applications I've built a
 
 ---
 ## 🔧 Projects Overview
+### `the-wild-oasis-website` - Hotel Booking Website
+<img width="800" src="https://github.com/user-attachments/assets/83ec42ae-fafd-41aa-9733-22183891128c" />
+
+- **Next.js "app" router, React Server Components, server actions, authentication with NextAuth**
+#
 ### `the-wild-oasis` - Hotel Management Site
 <img width="800" src="https://github.com/user-attachments/assets/7c284a36-a955-41ae-9c54-f727ee5f0cc3" />
 
@@ -80,38 +85,18 @@ This repository contains a collection of react-powered applications I've built a
 
 ## 🚀 How to Run
 
-Below are the commands to start each project:
+Below are the respective commands to start each project:
 
 | Project                                                                                           | Start Command(s)                                        |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | **pizza-menu**<br>**travel-list**<br>**eat-n-split**<br>**usepopcorn**<br>**classy-weather**       | `npm start`                                             |
 | **react-quiz**                                                                      | `npm start`<br>`npm run server` *(for backend/API)*     |
 | **worldwise**                                                                    | `npm run dev`<br>`npm run server` *(for backend/API)*   |
-| **fast-react-pizza**                                                                    | `npm run dev`|
+| **fast-react-pizza**<br>**the-wild-oasis**<br>**the-wild-oasis-website**                                                                    | `npm run dev`|
 
 ### Notes
 - **`npm start`** – Starts the React development server (for Create React App projects).
-- **`npm run dev`** – Starts the development server (for Vite-based projects).
+- **`npm run dev`** – Starts the development server (for Vite/Next-based projects).
 - **`npm run server`** – Starts the JSON server or API backend (run in a separate terminal).
 
-
-<!--
-### How to Run:
-#
-### `pizza-menu`, `travel-list`, `eat-n-split`, `usepopcorn`, `classy-weather`
-
-`npm start`
-#
-### `react-quiz`
-
-`npm start`
-
-`npm run server`
-#
-### `react-quiz`
-
-`npm run dev`
-
-`npm run server`
--->
 ---
